@@ -42,7 +42,7 @@ Start at the top, if you don't know the pre requisites, first learn those. Then 
         * Learn about Class, Object, Property, Method
         * Learn Inheritance, Interface, Trait, Namespace
         * Learn about Iterator & Generator
-        * Learn about MVC patter, SOLID principles and Dependency Injection
+        * Learn about MVC pattern, SOLID principles and Dependency Injection
     6. Composer
         * Learn about dependency management
         * Learn to use composer
