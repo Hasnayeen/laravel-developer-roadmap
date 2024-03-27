@@ -1,6 +1,6 @@
-# Laravel Developer Roadmap 2020
+# Laravel Developer Roadmap 2024
 
-### Roadmap to becoming a Laravel developer in 2020
+### Roadmap to becoming a Laravel developer in 2024
 
 Below is a simple roadmap charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a laravel developer.
 
@@ -26,23 +26,27 @@ Start at the top, if you don't know the pre requisites, first learn those. Then 
         * Learn the basics of CSS
         * Style pages from previous step
         * Build a page with grid and flexbox
+        * or watch this series - [HTML and CSS Workshop](https://laracasts.com/series/html-and-css-workshop)
     3. JS Basics
         * Get familiar with the syntax
         * Learn basic operations on DOM
         * Learn mechanisms typical for JS (Hoisting, Event Bubbling, Prototyping)
         * Make some AJAX (XHR) calls
         * Learn new features (ECMA Script 6+)
+        * or watch this series - [JavaScript: The First Steps](https://laracasts.com/series/javascript-the-first-steps) & [Modern JavaScript Basics](https://laracasts.com/series/modern-javascript-basics)
     4. PHP Basics
         * Basic PHP setup
         * Learn basic syntax
         * Learn about control flow, conditional, function, parameters
         * Learn array, array function & string function
         * Learn to work with Math, Datetime, File, Cookie & Session
+        * or watch this series - [PHP For Beginners](https://laracasts.com/series/php-for-beginners-2023-edition)
     5. PHP OOP
         * Learn about Class, Object, Property, Method
         * Learn Inheritance, Interface, Trait, Namespace
         * Learn about Iterator & Generator
         * Learn about MVC pattern, SOLID principles and Dependency Injection
+        * or watch this series - [Object-Oriented Principles in PHP](https://laracasts.com/series/object-oriented-principles-in-php)
     6. Composer
         * Learn about dependency management
         * Learn to use composer
@@ -53,7 +57,7 @@ Start at the top, if you don't know the pre requisites, first learn those. Then 
     3. Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
     4. Get familiar with terminal, configure your shell (bash, zsh, fish)
     5. Read a few books about algorithms and data structures
-3. Learn about Laravel on [official website](https://laravel.com/docs) or watch this [series](https://laracasts.com/series/laravel-6-from-scratch)
+3. Learn about Laravel on [official website](https://laravel.com/docs) or watch this series - [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
 
 More coming soon.......
 
